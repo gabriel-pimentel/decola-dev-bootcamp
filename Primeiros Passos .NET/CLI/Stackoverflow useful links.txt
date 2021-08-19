@@ -1,0 +1,4 @@
+1- There is a issue you might face with, which is setting your passphrase every time you make a commit:
+
+https://stackoverflow.com/questions/7226860/adding-an-ssh-key-permanently-in-msysgit-windows
+
