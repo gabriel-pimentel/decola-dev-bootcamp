@@ -1,0 +1,16 @@
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\Primeiros Passos .NET\CLI\bin\Debug\net5.0\CLI.exe
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\Primeiros Passos .NET\CLI\bin\Debug\net5.0\CLI.deps.json
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\Primeiros Passos .NET\CLI\bin\Debug\net5.0\CLI.runtimeconfig.json
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\Primeiros Passos .NET\CLI\bin\Debug\net5.0\CLI.runtimeconfig.dev.json
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\Primeiros Passos .NET\CLI\bin\Debug\net5.0\CLI.dll
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\Primeiros Passos .NET\CLI\bin\Debug\net5.0\ref\CLI.dll
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\Primeiros Passos .NET\CLI\bin\Debug\net5.0\CLI.pdb
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\Primeiros Passos .NET\CLI\obj\Debug\net5.0\CLI.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\Primeiros Passos .NET\CLI\obj\Debug\net5.0\CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\Primeiros Passos .NET\CLI\obj\Debug\net5.0\CLI.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\Primeiros Passos .NET\CLI\obj\Debug\net5.0\CLI.AssemblyInfo.cs
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\Primeiros Passos .NET\CLI\obj\Debug\net5.0\CLI.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\Primeiros Passos .NET\CLI\obj\Debug\net5.0\CLI.dll
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\Primeiros Passos .NET\CLI\obj\Debug\net5.0\ref\CLI.dll
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\Primeiros Passos .NET\CLI\obj\Debug\net5.0\CLI.pdb
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\Primeiros Passos .NET\CLI\obj\Debug\net5.0\CLI.genruntimeconfig.cache
