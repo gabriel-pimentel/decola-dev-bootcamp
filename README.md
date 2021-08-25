@@ -1,2 +1,2 @@
-# Code Anywhere Bootcamp
-Accomplished projects from Avanade's Code Anywhere Bootcamp (C#)
+# Decola Dev Bootcamp
+Accomplished projects from Avanade's Decola Dev Bootcamp (C#)
