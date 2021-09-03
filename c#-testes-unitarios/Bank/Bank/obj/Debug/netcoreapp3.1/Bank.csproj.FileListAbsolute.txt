@@ -1,0 +1,13 @@
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\c#-testes-unitarios\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.exe
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\c#-testes-unitarios\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.deps.json
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\c#-testes-unitarios\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.json
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\c#-testes-unitarios\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.dev.json
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\c#-testes-unitarios\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.dll
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\c#-testes-unitarios\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.pdb
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\c#-testes-unitarios\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\c#-testes-unitarios\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\c#-testes-unitarios\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfo.cs
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\c#-testes-unitarios\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\c#-testes-unitarios\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.dll
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\c#-testes-unitarios\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.pdb
+C:\Users\gabri\Desktop\code-anywhere-bootcamp\c#-testes-unitarios\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.genruntimeconfig.cache
