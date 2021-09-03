@@ -6,6 +6,7 @@ namespace cadastro_series_app
     {
         static void Main(string[] args)
         {
+            
             Console.WriteLine("Hello World!");
         }
     }
